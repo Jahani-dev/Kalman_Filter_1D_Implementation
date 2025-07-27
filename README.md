@@ -14,8 +14,8 @@ It compares a manual implementation of the Kalman filter with a built-in version
 ## Libraries Used
 
 - `numpy`
-- matplotlib
-- filterpy
+- `matplotlib`
+- `filterpy`
 
 
 
@@ -30,8 +30,8 @@ This basic Kalman filtering concept can be extended to:
 
 ## Files
 
-- "Kalman_Filter_Implementation.py": Python code for simulation and filtering
-- "Figure_*.png": Visualization of the results
+- `Kalman_Filter_Implementation.py`: Python code for simulation and filtering
+- `Figure_*.png`: Visualization of the results
 
 
 ## Author
