@@ -13,7 +13,7 @@ It compares a manual implementation of the Kalman filter with a built-in version
 
 ## Libraries Used
 
-- numpy
+- `numpy`
 - matplotlib
 - filterpy
 
